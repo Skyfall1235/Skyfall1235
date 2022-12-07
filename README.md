@@ -1,5 +1,5 @@
-- 👋 Hi, I’m @Skyfall1235
-- 👀 I’m interested in 3D printing, Airsoft, and game development
+- 👋 Hi, I’m @Skyfall1235, but feel free to call me Wyatt, or Rex
+- 👀 I’m interested in 3D printing, Airsoft, and game development among other things
 - 🌱 I’m currently learning simulation and Game design at Wake Tech Communinty College
 - 💞️ I’m looking to learn from more expirienced programmers in C#
 - 📫 Contact me through wyattmurray1235@gmail.com if you wish to collaborate!
