@@ -11,10 +11,10 @@ After finishing my studies in Simulation and Game Development, I’ve jumped int
 
 ---
 
-**What I Do:**
-* Crafting immersive game experiences in Unity.
-* Developing robust systems with C#.
-* Exploring VR development and performance optimization.
+**What I Do as a Game Developer:**
+* Craft immersive game experiences in Unity 5 & 6, of which my work can be found in 2 major projects.
+* Develop robust systems with C# for interconnectability while minding design constraints and scope.
+* Explore VR development and exploration along with performance optimizations for the CPU & Memory for various device constraints.
 
 **Technologies & Tools I use:**
 
@@ -40,27 +40,25 @@ After finishing my studies in Simulation and Game Development, I’ve jumped int
 * General
 
 [![Visual Studio](https://img.shields.io/badge/Visual%20Studio-5C2D91?style=for-the-badge&logo=visual-studio&logoColor=white)](https://visualstudio.microsoft.com/)
+[![VS Code](https://img.shields.io/badge/Visual%20Studio%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)](https://code.visualstudio.com/)
 [![Jira](https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white)](https://www.atlassian.com/software/jira)
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/)
 [![Git LFS](https://img.shields.io/badge/Git%20LFS-263238?style=for-the-badge&logo=git&logoColor=white)](https://git-lfs.github.com/)
 [![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://www.python.org/)
-[![Visual Studio](https://img.shields.io/badge/Visual%20Studio-5C2D91?style=for-the-badge&logo=visual-studio&logoColor=white)](https://visualstudio.microsoft.com/)
-
-
 
 ---
 
 **I'm currently looking for:**
 * New opportunities in game development roles.
-* Collaborations on interesting game dev projects.
+* Collaborations on interesting game dev projects, with a focus in VR when available.
 * Opportunities to learn from and contribute to the programming community.
 
 ---
 
 **In my spare time, I enjoy:**
 *  VR Gaming
-*  3D Printing
 *  Leatherwork
+*  3D Printing
 *  Homelabbing (I use CasaOS but plan to swap to Docker in the future)
 
 ---
